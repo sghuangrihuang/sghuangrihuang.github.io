@@ -109,7 +109,7 @@ aboutme: 一个热衷于web前端技术的二栋仁兄，爱好：高达模型�
 #aboutme: false
 
 # 是否在新窗口打开链接
-open_in_new: true
+open_in_new: false
 
 # Customize feed link 自定义订阅地址
 rss: /atom.xml
