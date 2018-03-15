@@ -6,9 +6,8 @@
 menu:
   # 主页: /archives/
   所有文章: /archives/
-  玩转开发工具: /categories/开发工具/
-  玩转数码: /categories/digital
-  算法学习: /categories/algorithm
+  技术: /categories/skill
+  其他: /categories/other
   关于我: /about/
 # 静心阅读: /tags
 
@@ -24,8 +23,8 @@ favicon: /img/favicon.png
 ## RSS requires a plugin to take effect | 使用 RSS 需先安装对应插件
 ## https://github.com/hexojs/hexo-generator-feed
 subnav:
-  github: xxxxx
-  weibo: xxxxxxxx
+  github: https://github.com/sghuangrihuang
+  weibo: https://weibo.com/u/1840106105
   rss: /atom.xml
 
   # Google: "#"
@@ -40,7 +39,7 @@ disqus:
   # It is unnecessary to enable disqus here if
   # you have set "disqus_shortname" in your site's "_config.yml"
 changyan:
-  on: true
+  on: false
   appid: xxxx
   conf: xxxxxxxxx
   # 是否开启畅言评论，
@@ -81,7 +80,7 @@ toc_nowrap: false
 
 # 自定义"阅读全文"链接按钮的显示文字
 # Customize the text on excerpt link
-excerpt_link: 查看更多 #修改more>>的文字
+excerpt_link: 阅读全文 #修改more>>的文字
 
 # 是否显示边栏中的搜索框（站内搜索）
 # Search Box in left column
@@ -100,15 +99,17 @@ tagcloud: true
 # Blogroll, Link exchange | 友情链接
 # friends: false
 friends:
-  csdn: http://blog.csdn.net/baidu_21483933
-  segmentfault: https://segmentfault.com/blog/maocg_web
-  简书: http://www.jianshu.com/users/eb37ef89c746/latest_articles
+  csdn: http://blog.csdn.net/qq_24563905
+  segmentfault: https://segmentfault.com/u/erdongrenxiong
+  简书: https://www.jianshu.com/u/4b2161f510a4
+  gitee: https://gitee.com/sghuangrihuang/events
+
 #是否开启“关于我”。
-aboutme: 爱动漫,爱游戏,爱编程,爱运动,爱的太多了!
+aboutme: 一个热衷于web前端技术的二栋仁兄，爱好：高达模型，魔方，骑车旅行，爬山
 #aboutme: false
 
 # 是否在新窗口打开链接
-open_in_new: false
+open_in_new: true
 
 # Customize feed link 自定义订阅地址
 rss: /atom.xml
@@ -126,7 +127,7 @@ mathjax: false
 
 # Socail Share | 是否开启分享
 # share: true
-baidushare: true
+baidushare: false
 #showshare: true
 
 # 百度、谷歌站长验证。填写 HTML 标签 content
