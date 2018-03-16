@@ -1,6 +1,6 @@
 ---
 title: github + hexo 博客的搭建
-date: 2018-03-15 19:47:56
+date: 2017-07-20 20:00:00
 tags: config
 ---
 基于 github 和 hexo 的博客搭建方法

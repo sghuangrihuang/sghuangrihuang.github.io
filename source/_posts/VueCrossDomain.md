@@ -1,6 +1,6 @@
 ---
 title: Vue-cli基于proxyTable配置解决跨域方案
-date: 2018-03-16 09:15:05
+date: 2017-12-18 09:15:05
 tags: vue
 categories: skill
 ---
