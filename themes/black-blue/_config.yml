@@ -7,7 +7,7 @@ menu:
   # 主页: /archives/
   所有文章: /archives/
   技术: /categories/skill
-  其他: /categories/other
+  个人简历: /resume/
   关于我: /about/
 # 静心阅读: /tags
 
@@ -25,7 +25,7 @@ favicon: /img/favicon.png
 subnav:
   github: https://github.com/sghuangrihuang
   weibo: https://weibo.com/u/1840106105
-  rss: /atom.xml
+  zhihu: https://www.zhihu.com/people/huang-ri-huang
 
   # Google: "#"
 # search_box: true
@@ -84,7 +84,7 @@ excerpt_link: 阅读全文 #修改more>>的文字
 
 # 是否显示边栏中的搜索框（站内搜索）
 # Search Box in left column
-search_box: true
+search_box: false
 
 # 是否开启主页及加载头像时的动画效果
 # Animation in Homepage and Loading avatar
