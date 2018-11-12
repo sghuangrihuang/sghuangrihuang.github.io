@@ -74,6 +74,13 @@ pagination_dir: page
 ## Themes: https://hexo.io/themes/
 theme: black-blue
 
+# 不蒜子网站计数设置
+# https://busuanzi.ibruce.info
+visit_counter:
+  on: true
+  site_visit: 本站到访数
+  page_visit: 本页阅读量
+
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
